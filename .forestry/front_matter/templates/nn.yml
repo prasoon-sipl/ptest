@@ -5,3 +5,5 @@ fields:
 - type: text
   label: ji
   name: ji
+pages:
+- content/post/axxadxs.md
